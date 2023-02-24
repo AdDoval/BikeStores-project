@@ -8,6 +8,7 @@ First we execute the queries obtained from the tutorial:
     1. Creating objects with **"BikeStores Sample Database - create objects.sql"**.  
     2. Populating objects with data provided in **"BikeStores Sample Database - load data.sql"**.
 
+These queries are avaliable in the "Initial data and set up" folder.  
 ## 2.- Creating usable data frame
 
 Now that we have al the tables with the corresponding data, we need to query the data that we need to do the analysis.  
