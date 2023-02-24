@@ -4,7 +4,7 @@ The objective of this project is to get familiarized with SQL and tableau.
 
 ## 1.- Loading the data
 
-First we execute the queries obtained from the tutorial:  
+First we execute the queries obtained from the [tutorial](https://www.youtube.com/watch?v=1pHYKdyRvrw):  
     1. Creating objects with **"BikeStores Sample Database - create objects.sql"**.  
     2. Populating objects with data provided in **"BikeStores Sample Database - load data.sql"**.
 
