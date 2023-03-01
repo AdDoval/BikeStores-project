@@ -36,3 +36,9 @@ Here we can see how the dashboard looks:
 ![Screen capture dashboard 2](img/excel%20dashboard_2.PNG)
 
 ## 5.- Creating the dashboard in tableau
+
+In order to build a dashboard in tableau we start by creating all the elements of the dashboard in separated sheets.
+
+Once we have all the sheets created we can put toguether the new dashboard. The dashboard allows to filter between years and state.
+
+![Alt text](img/Tableau%20dashboard.png)
